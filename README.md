@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello and Welcome 👋, I'm Bilal Shahid
 
-<!--
-**bilalsh-dev/bilalsh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/bilalsh-dev)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bilalsh.dev@gmail.com)
 
-Here are some ideas to get you started:
+## I'm a Software Engineer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🏫 I enjoy coding
+- ⚡ Motto: _Keep striving for progress, not perfection
+
+## 🛠️ Technical Stack
+```javascript
+const skills = {
+    languages: ['JavaScript', 'Python', 'TypeScript', 'Dart'],
+    frameworks: ['React', 'Next.js', 'Node.js', 'Express.js', 'Flutter'],
+    platforms: ['GitHub', 'Docker', 'Vercel', 'Cloudinary', 'AWS'],
+    ai: ['OpenAI']
+};
+```
+
+
+## 🎯 Professional Goals
+- Advancing in software development roles that leverage leadership experience
+- Building impactful tech solutions
+- Continuous learning and skill development in the latest technologies
+
+## 📬 Connect With Me
+- **LinkedIn**: [in/bilalsh-dev](https://linkedin.com/in/bilalsh-dev)
+- **Email**: bilalsh.dev@gmail.com
+
+
